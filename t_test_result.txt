@@ -1,0 +1,12 @@
+> t_test_result
+
+	Welch Two Sample t-test
+
+data:  selangor_cases and sabah_cases
+t = 15.747, df = 1609.5, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+  784.5869 1007.8444
+sample estimates:
+mean of x mean of y 
+1209.4313  313.2157 
